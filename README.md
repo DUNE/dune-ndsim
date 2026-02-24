@@ -1,5 +1,5 @@
 # dune-sim
-Simulation code for DUNE's Phlex-based software stack
+Near-Detector Simulation code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
 Copyright © 2026 FERMI NATIONAL ACCELERATOR LABORATORY for the benefit of the DUNE Collaboration.
