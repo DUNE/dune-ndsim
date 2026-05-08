@@ -1,4 +1,4 @@
-# dune-ndsim
+# dune-nd-sim
 Near-Detector Simulation code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
